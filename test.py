@@ -27,7 +27,7 @@ import matplotlib.image as mpimg
 import matplotlib.pyplot as plt 
 
 from datetime import datetime
-from liang_workspace_drawelement import draw_elements
+#from liang_workspace_drawelement import draw_elements
 
 
 
