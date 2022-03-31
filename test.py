@@ -8,8 +8,8 @@ from PIL import Image
 #from pyecharts import options as opts
 import pandas as pd
 from PIL import Image
-import nest_asyncio
-nest_asyncio.apply()
+# import nest_asyncio
+# nest_asyncio.apply()
 
 import numpy as np
 import pandas as pd

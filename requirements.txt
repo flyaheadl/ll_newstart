@@ -1,5 +1,4 @@
 matplotlib 
-nest_asyncio 
 numpy 
 pandas 
 Pillow 
