@@ -17,8 +17,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 import matplotlib as mpl
-import cartopy.crs as ccrs
-from cartopy.mpl.ticker import LongitudeFormatter,LatitudeFormatter
 import shapefile
 from matplotlib.path import Path
 from matplotlib.patches import PathPatch
