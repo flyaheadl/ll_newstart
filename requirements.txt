@@ -9,6 +9,6 @@ pyecharts
 pyshp 
 requests 
 scipy 
-pyproj 
-geos
+proj==7.0.1 
+geos==3.8.0
 streamlit==1.5.0
