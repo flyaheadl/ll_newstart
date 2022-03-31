@@ -1,2 +1,2 @@
 matplotlib== 3.3.4
-cartopy==0.18.0
+cartopy== 0.18.0
