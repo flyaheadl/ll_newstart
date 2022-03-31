@@ -12,4 +12,3 @@ scipy
 pyproj
 GEOS
 streamlit==1.5.0
-Cartopy 
