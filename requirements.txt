@@ -10,6 +10,5 @@ pyshp
 requests 
 scipy 
 pyproj
-GEOS
+GEOS==3.8.0
 streamlit==1.8.0
-Cartopy ==0.18.0
