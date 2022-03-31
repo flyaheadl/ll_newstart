@@ -1,7 +1,7 @@
 Cartopy==0.18.0
 matplotlib==3.3.4
 nest_asyncio==1.5.1
-numpy==1.21.5
+numpy==1.22.3
 pandas==1.2.4
 Pillow==9.0.1
 plotly==5.6.0
