@@ -5,10 +5,11 @@ numpy
 pandas 
 Pillow 
 plotly 
+shapely
 pyecharts 
 pyshp 
 requests 
 scipy 
 pyproj==3.2.1 
-geos
+geos==3.7.2
 streamlit==1.5.0
