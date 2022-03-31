@@ -9,4 +9,5 @@ pyecharts
 pyshp 
 requests 
 scipy 
+proj
 streamlit==1.5.0
