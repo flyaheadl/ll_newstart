@@ -40,19 +40,19 @@ def station():
     # col1,col2 =st.columns(2)
     # with col1:
     #     st.header('站点分布图')
-    #     image1 = Image.open(r'G:\streamlit\延庆自动站分布图2021.10.26.png')
+    #     image1 = Image.open('延庆自动站分布图2021.10.26.png')
     #     st.image(image1,use_column_width=False)
     # with col2:
     #     st.header('高程分布图')
-    #     image2 = Image.open(r'G:\streamlit\topography-yq.png')
+    #     image2 = Image.open('topography-yq.png')
     #     st.image(image2,use_column_width=False)
     
     st.header('站点分布图')
-    image1 = Image.open(r'G:\streamlit\延庆自动站分布图2021.10.26.png')
+    image1 = Image.open('延庆自动站分布图2021.10.26.png')
     st.image(image1,use_column_width=True)
 
     st.header('高程分布图')
-    image2 = Image.open(r'G:\streamlit\topography-yq.png')
+    image2 = Image.open('topography-yq.png')
     st.image(image2,use_column_width=True)
        
 def Line():
