@@ -4,8 +4,8 @@ import numpy as np
 #import plotly.express as px
 #import plotly.graph_objects as go
 from PIL import Image
-from pyecharts.charts import Bar
-from pyecharts import options as opts
+#from pyecharts.charts import Bar
+#from pyecharts import options as opts
 import pandas as pd
 from PIL import Image
 import nest_asyncio
