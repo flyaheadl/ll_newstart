@@ -13,4 +13,3 @@ pyproj
 GEOS==0.2.3
 streamlit==1.8.0
 click==8
-cartopy==0.20.2
